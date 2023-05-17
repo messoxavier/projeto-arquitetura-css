@@ -1,4 +1,4 @@
-# arquitetura-css
+# projeto-arquitetura-css
 
 Projeto de Arquitetura CSS  abordando um estilo mais eficiente e organizado.
 
